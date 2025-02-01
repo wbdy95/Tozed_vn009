@@ -1,7 +1,7 @@
 
 
 央视频道,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV-1,http://116.77.32.59:8277/streams/d/cctv1/playlist.m3u8
 CCTV-2,http://116.77.32.59:8277/streams/d/cctv2/playlist.m3u8
 CCTV-3,http://116.77.32.59:8277/streams/d/cctv3/playlist.m3u8
 CCTV-4,http://tvpull.careryun.com/tv/cctv4.m3u8
@@ -12,8 +12,8 @@ CCTV-8,http://118.77.62.0:8899/tsfile/live/0008_1.m3u8
 CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-12,http://116.77.32.59:8277/streams/d/cctv12/playlist.m3u8
+CCTV-13,http://116.77.32.59:8277/streams/d/cctv13/playlist.m3u8
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://118.81.48.208:8082/rtp/226.0.2.169:9264
