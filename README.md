@@ -27,3 +27,14 @@ View modification results:
 AT+SPIMEI?
 
 U had better to restore the factory settings after successful modification
+adb
+user：superadmin
+Password:lo que te dio la pagina de arriba (https://tool.zootu.cn/tools/api/007imei/)
+login web como super usuario: en la shell poner este comando
+
+cat /tmp/mdlcfg.sysconfig | grep SYS_SENIOR_LOGIN_PWD
+
+Change string command:
+atcmd 'AT+SPACTCARD=0'
+atcmd 'AT+SPIMEI?'
+atcmd 'AT+SPIMEI=0,"861111111111111"'
